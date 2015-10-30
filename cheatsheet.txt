@@ -1,0 +1,12 @@
+cd (name of repository) : to get into the folder
+gedit README.md & : to open README.md in gedit
+cat README.md :to view everything in README.md file
+R(Tab) : README.md
+git status : to view the status of your files
+git add README.md : to add the file to your repository on github
+git commit -m "description of additions" : to commit the changes you've made to the files
+git push : to push the file back to github
+ls : to view home folder
+ls (name of repository) : to view contents of repository
+cd : takes back to home folder
+cd .. : takes back one folder
