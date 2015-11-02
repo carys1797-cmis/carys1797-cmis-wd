@@ -1,0 +1,20 @@
+Open the program terminal by going to the menu. The terminal icon is the fifth down on the leftmost column, and is a black box with ">_" in the middle
+Type the following command into terminal: git clone --config="http.proxy=http://carys1797:0806806121@192.168.2.1:8080" https://github.com/carys1797-cmis/carys1797-cmis-wd.git
+Press enter
+Type "cd" and the name of your repository into terminal
+Press enter
+Type "gedit" and the name of the new file you want to create (.txt) into terminal and then an &
+Press enter
+Type the text you want into the gedit window that pops up
+When you have typed all that you want, click the save button at the top of the window.
+Close gedit
+Type "git add" and the name of your new file into terminal
+Press enter
+Type "git commit -m" and a message about what you added to your new file in terminal (make sure this message is surrounded by quotation marks: "")
+Press enter
+Type "git push" into terminal
+Press enter
+Terminal will ask you for your username: type your github account username into terminal
+Press enter
+Terminal will ask you for your password: type your github account password into terminal
+Press enter
