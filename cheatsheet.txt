@@ -10,3 +10,12 @@ ls : to view home folder
 ls (name of repository) : to view contents of repository
 cd : takes back to home folder
 cd .. : takes back one folder
+python -m SimpleHTTPServer : to open development server
+localhost:8000 : to see index.html as a website
+^/(name of file) : to view that file as a website
+sftp carys1797@cmis-hsteacher : opening the development server to put things on it
+put : put a file on to public development server
+rm : to remove a file from the public development server
+* : to put or remove all files
+!ls : list all files on machine sitting at
+
