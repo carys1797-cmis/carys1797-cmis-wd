@@ -1,35 +1,58 @@
+/*--*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.--*/
 body{
 	background-color: #F6F3EB;
 	text-align:center;
+	background-image: url(http://webneel.com/wallpaper/sites/default/files/images/08-2013/10-star-fish-sea-beach-sand-wallpaper.jpg);
 }
 header{
 	color: #00E5E6;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	background-color: #FFFFFF;
-	border-style:;
-	border-width:;
+	border-style:solid;
+	border-width:10px;
+	margin:auto ;
+	width:500px;
+	height:100px;
 }
 h2{
 	color: #3366CC;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background-color:;
-	border-style:;
-	border-width:;
-}
-main{
+	background-color:#FFFFFF;
+	border-style:double;
+	border-width:2px;
+	margin:auto;
+	width:150px;
+	height:30px;
 }
 p{
 	color: #00CCFF;
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
-	background-color:;
-	border-style:;
-	border-width:;
+	background-color:#FFFFFF;
+	border-style:dashed;
+	border-width:10px;
+	margin:auto;
+	width: 800px;
+	height: 30px;
 }
 footer{
 	color: #003399;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background-color:;
-	border-style:;
-	border-width:;
+	background-color:#FFFFFF;
+	border-style:solid;
+	border-width:2px;
+	margin: auto;
+	width: 300px;
 }
-
