@@ -1,0 +1,44 @@
+header{
+	background-color: red;
+	border-color: yellow;
+	border-style: hidden hidden dashed hidden;
+	border-width: 8px
+}
+h2{
+	background-color: purple;
+	color: yellow;
+	font-family: Impact, Charcoal, sans-serif;
+	font-style: italic;
+	border-style: hidden solid hidden hidden;
+	border-color: yellow;
+	border-width: 18px;
+}
+h5{
+	color: blue;
+	font-style: italic;
+}
+main{
+	border-style: none solid none solid;
+	border-color: blue red;
+	border-width: 10px;
+	color: blue;
+}
+h3{
+	background-color: yellow;
+	color: purple;
+	border-style: dashed none none none;
+	border-color: purple;
+}
+h4{
+	background-color: green;
+	color: yellow;
+	border-style: none none dotted none;
+	border-color: yellow;
+	border-width: 5px;
+}
+footer{
+	color: blue; 
+	border-style: dotted solid hidden solid;
+	border-color: black orange orange;
+	outline-color: maroon;
+}
