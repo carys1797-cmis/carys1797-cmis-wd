@@ -20,4 +20,5 @@ rm : to remove a file from the public development server
 * : to put or remove all files
 !ls : list all files on machine sitting at
 cmis-hsteacher/~(name&#) : to view (name)'s files that are on the production server as a website
-mkdir: to create new foldergi
+mkdir: to create new folder (folders are blue)
+rmdir: to remove a folder
