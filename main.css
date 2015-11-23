@@ -34,7 +34,7 @@ h2{
 	border-style:double;
 	border-width:2px;
 	margin:auto;
-	width:150px;
+	width:200px;
 	height:30px;
 }
 p{
@@ -44,8 +44,8 @@ p{
 	border-style:dashed;
 	border-width:10px;
 	margin:auto;
-	width: 800px;
-	height: 30px;
+	width: 1200px;
+	height: 40px;
 }
 footer{
 	color: #003399;
