@@ -1,0 +1,18 @@
+h2 ~ p{
+	width: 600px;
+	padding: 10px;
+	border: 10px solid navy;
+	margin: 10px auto;
+}
+main > h2{
+	width: 600px;
+	padding: 10px;
+	border: 10px solid navy;
+	margin: 10px auto;
+}
+p + ul{
+	width: 600px;
+	padding: 10px;
+	border: 10px solid navy;
+	margin: 10px auto;
+}
