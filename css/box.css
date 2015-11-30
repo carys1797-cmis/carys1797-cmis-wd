@@ -1,17 +1,56 @@
 h2 ~ p{
+	height: auto;
+	width: 900px;
+	padding: 10px;
+	border: 10px dashed #00CCFF;
+	margin: 10px auto;
+}
+nav + h2{
+	height: auto;
 	width: 600px;
 	padding: 10px;
 	border: 10px solid navy;
 	margin: 10px auto;
 }
 main > h2{
+	height: auto;
+	width: 300px;
+	padding: 10px;
+	border: 10px double navy;
+	margin: 10px auto;
+}
+ol + h3{
+	height: auto;
 	width: 600px;
 	padding: 10px;
 	border: 10px solid navy;
 	margin: 10px auto;
 }
 p + ul{
+	height: auto;
 	width: 600px;
+	padding: 10px;
+	border: 10px solid navy;
+	margin: 10px auto;
+}
+h3 + ul{
+	height: auto;
+	width: 600px;
+	padding: 10px;
+	border: 10px solid navy;
+	margin: 10px auto;
+}
+ol > li{
+	height: auto;
+	width: 600px;
+	padding: 10px;
+	border: 10px solid maroon;
+	margin: 10px auto;
+	background-color: #fff3e7;
+}
+h2 ~ table{
+	height: auto;
+	width: 400px;
 	padding: 10px;
 	border: 10px solid navy;
 	margin: 10px auto;
