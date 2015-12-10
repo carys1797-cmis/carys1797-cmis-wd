@@ -1,3 +1,13 @@
 *{
 	outline: solid red 1px;
 }
+nav{
+	width: 200px;
+	float: left;
+}
+main{
+	margin-left: 201px;
+}
+footer{
+ clear: both;
+}
