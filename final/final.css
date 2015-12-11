@@ -11,3 +11,8 @@ main{
 footer{
  clear: both;
 }
+.right{
+	width: 800px;
+	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+	filter: grayscale(100%);
+}
