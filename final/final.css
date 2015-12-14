@@ -1,6 +1,22 @@
 *{
 	outline: solid red 1px;
 }
+body{
+	background-image: url("https://thebettermanprojects.files.wordpress.com/2011/12/life.jpg");
+}
+article{
+	background-image: url("images/Welcome4.png");
+	background-size: 1600px 400px;
+	height: 300px;
+	border-bottom: black solid 8px;
+}
+
+h2{
+	margin-top: 230px;
+	border: solid black 8px;
+	padding: 5px;
+	background-color: white;
+}
 nav{
 	width: 200px;
 	float: left;
@@ -9,10 +25,5 @@ main{
 	margin-left: 201px;
 }
 footer{
- clear: both;
-}
-.right{
-	width: 800px;
-	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
-	filter: grayscale(100%);
+	clear: both;
 }
