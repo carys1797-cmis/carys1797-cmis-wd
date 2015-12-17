@@ -1,29 +1,142 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
 *{
-	outline: solid red 1px;
+	//outline: solid red 1px;
 }
-body{
-	background-image: url("https://thebettermanprojects.files.wordpress.com/2011/12/life.jpg");
+.background1{
+    background-image: url("https://thebettermanprojects.files.wordpress.com/2011/12/life.jpg");
 }
-article{
-	background-image: url("images/Welcome4.png");
-	background-size: 1600px 400px;
-	height: 300px;
-	border-bottom: black solid 8px;
+.background2{
+    background-image: url("images/PencilBackground.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: #bdbda8;
+    background-size: 100%;
 }
-
-h2{
-	margin-top: 230px;
-	border: solid black 8px;
-	padding: 5px;
-	background-color: white;
+.cat{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    clear: both;
+    margin-bottom: 20px;
+}
+.swirl{
+    width: 400px;
+    margin-top: 40px;
+}
+.swirl1{
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    width: 400px;
+    margin-top: 40px;
+}
+.quote{
+    border: solid black 8px;
+    padding: 5px;
+    background-color: white;
 }
 nav{
-	width: 200px;
-	float: left;
+    width: 200px;
+    float: left;
+    position: fixed;
+    border: dashed black 5px;
+    background-color: white;
 }
 main{
-	margin-left: 201px;
+    margin-left: 211px;
+}
+h3{
+    font-size: 40px;
+}
+.-one{
+    clear:both
+}
+.print{
+    clear: both;
+    margin-bottom: 20px;
+    height: 350px;
+    width: 551px;
+    border: dashed black 5px;
+    float: right;
+}
+.one{
+    margin-right: 563px;
+}
+.cal{
+    clear: both;
+    margin-bottom: 20px;
+    height: 500px;
+    width: 380px;
+    border: dashed black 5px;
+    float: right;
+}
+.two{
+    margin-right: 392px;
+}
+.can{
+    clear: both;
+    margin-bottom: 20px;
+    height: 300px;
+    width: 594px;
+    border: dashed black 5px;
+    float: right;
+}
+.three{
+    margin-right: 606px;
+}
+.card{
+    clear: both;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 400px;
+    border: dashed black 5px;
+    float: right;
+}
+.four{
+    margin-right: 412px;
+}
+.book{
+    clear: both;
+    margin-bottom: 130px;
+    height: 350px;
+    width: 525px;
+    border: dashed black 5px;
+    float: right;
+}
+.five{
+    margin-right: 537px;
+}
+.lion{
+    height: 200px;
+}
+.bird{
+    height: 200px;
+}
+.tigercub{
+    height: 200px;
+}
+.duckling{
+    height: 200px;
+}
+.elephants{
+    height: 200px;
+}
+.birds{
+    height: 200px;
+}
+.lambs{
+    height:200px;
+}
+.pup{
+    height: 200px;
+}
+.swan{
+    height: 200px;
 }
 footer{
-	clear: both;
+    clear: both;
+    background-color: white;
 }
